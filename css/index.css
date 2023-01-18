@@ -9,3 +9,9 @@ color:black;
     border: 1rem solid gray;
     text-align: center;
 }
+.cabecera{
+border:1px solid black;
+text-align: left;
+font-size: 2rem;
+background-color: aquamarine;
+}
