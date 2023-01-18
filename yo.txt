@@ -1,4 +1,2 @@
 Mi nombre es Cristian
-Tengo 21 años
-ME GUSTA LA PROGRAMACION
-En este año comienzo con mi primera incursion al campo laboral en la empres turing
+Tengo 21 años y estoy apunto de obtener el titulo de Ingeniero en sistemas computacionales
